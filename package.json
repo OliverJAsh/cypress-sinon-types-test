@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cypress": "^4.10.0",
+    "typescript": "^3.9.7"
+  }
+}
