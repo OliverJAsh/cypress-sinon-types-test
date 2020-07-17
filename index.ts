@@ -1,3 +1,3 @@
-import { SinonMatcher } from 'cypress/types/sinon';
+import { SinonMatcher } from 'sinon';
 
 type F = sinon.SinonSpyCall<number[], string>;
